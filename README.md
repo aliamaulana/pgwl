@@ -21,7 +21,7 @@ Infakot adalah sebuah platform yang digunakan untuk memantau secara efektif infr
 <h2>Sumber Data:</h2>
 
 <ul>
-  <li>Data Shapefile RBI Jaringan Jalan, Jaringan Trans Jakarta, dan Titik Sarana Prasaran</li>
+  <li>Data Shapefile RBI Jaringan Jalan, Jaringan Trans Jakarta, dan Titik Sarana Prasarana</li>
   <li>Data Lokasi Koordinat Titik Lokasi Sarana dan Prasarana yang diambil dari Google Maps dan Google Earth</li>
 
 </ul>
@@ -31,7 +31,6 @@ Infakot adalah sebuah platform yang digunakan untuk memantau secara efektif infr
 
 
 **1. Halaman Login**
-
     ![alt text](login.png)
 
 **2. Map (Integrasi WebGIS dan Database)**
