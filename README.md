@@ -28,31 +28,31 @@ Infakot adalah sebuah platform yang digunakan untuk memantau secara efektif infr
 
 
 <h2>Tangkapan Layar Komponen Penting</h2>
-<ol>
 
-1. **Halaman Login**
+
+**1. Halaman Login**
 
     ![alt text](login.png)
 
-2. **Map (Integrasi WebGIS dan Database)**
+**2. Map (Integrasi WebGIS dan Database)**
     ![alt text](peta.png)
 
-3. **Halaman Dashboard**
+**3. Halaman Dashboard**
     ![alt text](dashboard.png)
    
-4. **Tabel**
+**4. Tabel**
    ![alt text](tabel.png)
 
-5. **Fungsi Update dan Create Data**
+**5. Fungsi Update dan Create Data**
 
    ![alt text](create.png)
    ![alt text](update.png)
 
-6. **Halaman About**
+**6. Halaman About**
   ![alt text](about1.png)
   ![alt text](about2.png)
 
-5. **Info**
+**7. Info**
 
    ![alt text](info.png)
-</ol>
+
