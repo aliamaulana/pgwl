@@ -1,4 +1,4 @@
-# pgweb-responsi
+# pgwl-responsi
 <h2> Infakot: Pemantauan Infrastruktur dan Fasilitas Kota Jakarta Barat </h2>
 <h2> Deskripsi produk </h2>
 
@@ -21,7 +21,7 @@ Infakot adalah sebuah platform yang digunakan untuk memantau secara efektif infr
 <h2>Sumber Data:</h2>
 
 <ul>
-  <li>Data Shapefile RBI </li>
+  <li>Data Shapefile RBI Jaringan Jalan, Jaringan Trans Jakarta, dan Titik Sarana Prasaran</li>
   <li>Data Lokasi Koordinat Titik Lokasi Sarana dan Prasarana yang diambil dari Google Maps dan Google Earth</li>
 
 </ul>
@@ -29,7 +29,30 @@ Infakot adalah sebuah platform yang digunakan untuk memantau secara efektif infr
 
 <h2>Tangkapan Layar Komponen Penting</h2>
 <ol>
-  <li>Landing Page</li> <img src = "assets/img/foto/cover.png" width = "500">
-  <li>Peta Sebaran Wisata (Integrasi WebGIS dan Database)</li> <img src = "assets/img/foto/wisata.png" width = "500">
-  <li>Peta Sebaran Resort/Hotel  (Integrasi WebGIS dan Database) </li> <img src = "assets/img/foto/penginapan.png" width = "500">
+
+1. **Halaman Login**
+
+    ![alt text](login.png)
+
+2. **Map (Integrasi WebGIS dan Database)**
+    ![alt text](peta.png)
+
+3. **Halaman Dashboard**
+    ![alt text](dashboard.png)
+   
+4. **Tabel**
+   ![alt text](tabel.png)
+
+5. **Fungsi Update dan Create Data**
+
+   ![alt text](create.png)
+   ![alt text](update.png)
+
+6. **Halaman About**
+  ![alt text](about1.png)
+  ![alt text](about2.png)
+
+5. **Info**
+
+   ![alt text](info.png)
 </ol>

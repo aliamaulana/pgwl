@@ -18,7 +18,7 @@
                             <p style="font-size: 26pt">{{$total_points}}</p>
                         </div>
                     </div>
-                    <div class="col">
+                    {{-- <div class="col">
                         <div class="alert alert-success" role="alert">
                             <h4><i class="fa-solid fa-route"></i>  Total Polyline</h4>
                             <p style="font-size: 26pt">{{$total_polylines}}</p>
@@ -29,7 +29,7 @@
                             <h4><i class="fa-solid fa-draw-polygon"></i>  Total Polygon</h4>
                             <p style="font-size: 26pt">{{$total_polygons}}</p>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
                 <hr>
                 <p>Anda Login Sebagai <b>{{ Auth::user()->name }}</b> dengan email <i>{{ Auth::user()->email }}</i></p>

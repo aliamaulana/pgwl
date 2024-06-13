@@ -53,6 +53,14 @@
                                 class="fa-solid fa-circle-info"></i> Info</a>
                     </li>
 
+
+
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href='about'> <i
+                                class="fa-solid fa-circle-question"></i> About</a>
+                    </li>
+
+
                     @if (Auth::check())
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('dashboard') }}"><i class="fa-solid fa-gauge"></i></i>
